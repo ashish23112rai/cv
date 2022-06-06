@@ -1,0 +1,169 @@
+body{
+  background-color:#E8F9FD;
+  font-family: 'Merriweather', serif;
+  color: #7F8487
+
+}
+hr{
+  border-style:none;
+  border-top: dotted;
+  border-color: #99A799;
+  border-width: 5px;
+  width: 3%;
+
+}
+h1{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:normal;
+  font-size: 250%;
+}
+h2{
+  color:#4FD3C4;
+  font-weight: normal;
+}
+h4{
+  font-weight: normal;
+}
+.heading{
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  font-weight: lighter;
+  width: 50%;
+  margin: 10px auto 0 auto;
+}
+.subheading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  width:30%;
+  font-size: 150%;
+  margin:auto;
+  margin-bottom: 150px;
+}
+.top-container{
+  padding-top: 200px;
+  width:60%;
+  margin:0 auto 100px auto;
+  text-align: center;
+  position: relative;
+}
+.second-container{
+  text-align: center;
+  width: 60%;
+  margin:100px auto 100px auto;
+}
+.third-container{
+  text-align: center;
+  width:60%;
+  margin: 100px auto 100px auto;
+}
+.end-container{
+  text-align: center;
+  width:60%;
+  margin: 100px auto 0 auto;
+}
+.bottom-container{
+  background-color: #82DBD8;
+  padding: 100px;
+  text-align:center;
+  margin-top:10px;
+}
+/* Above house*/
+.cloud-bottom{
+  position: absolute;
+  left: 250px;
+}
+
+.cloud-bottom-1{
+  position: absolute;
+  bottom: 500px;
+  right: 0;
+}
+.cloud-top{
+  position: absolute;
+  bottom: 650px;
+  left: 0;
+}
+
+.mountain{
+  margin:0 auto;
+}
+.opju{
+  text-decoration:none;
+  color: #7F8487;
+}
+.opju:hover{
+  color:#14C38E;
+}
+.wrap1{
+  float: left;
+  margin-right: 30px;
+}
+.wrap2{
+  float: right;
+  margin-left: 30px;
+}
+.design1{
+  text-align:left;
+  margin-top: 60px;
+}
+.design2{
+  text-align:left;
+  margin-top: 60px;
+}
+.aim{
+  width: 40%;
+  margin: 0 auto 20px auto;
+  line-height: 2;
+}
+.d1-sh{
+  width:40%;
+  margin: auto;
+}
+.end-para{
+  width:60%;
+  margin:auto;
+  line-height: 2;
+}
+.btn{
+  background: #34d984;
+  background-image: -webkit-linear-gradient(top, #34d984, #2bb889);
+  background-image: -moz-linear-gradient(top, #34d984, #2bb889);
+  background-image: -ms-linear-gradient(top, #34d984, #2bb889);
+  background-image: -o-linear-gradient(top, #34d984, #2bb889);
+  background-image: linear-gradient(to bottom, #34d984, #2bb889);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #f7f2f7;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #3cfc73;
+  background-image: -webkit-linear-gradient(top, #3cfc73, #34d986);
+  background-image: -moz-linear-gradient(top, #3cfc73, #34d986);
+  background-image: -ms-linear-gradient(top, #3cfc73, #34d986);
+  background-image: -o-linear-gradient(top, #3cfc73, #34d986);
+  background-image: linear-gradient(to bottom, #3cfc73, #34d986);
+  text-decoration: none;
+}
+.button{
+  text-align: center;
+  margin:50px auto 50px auto;
+}
+.end-anchors{
+   margin-left: 10px;
+   text-decoration: none;
+   color:#4FD3C4;
+}
+.end-anchors:hover{
+  color:#FFFFFF;
+}
+.last-para{
+  font-size: 10px;
+}
